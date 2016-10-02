@@ -1,0 +1,6 @@
+.build
+run-tests
+Packages
+xcuserdata
+*.xcodeproj
+.DS_Store
