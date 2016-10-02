@@ -1,6 +1,6 @@
 import XCTest
-@testable import RedscriptTests
+@testable import RedlockTests
 
 XCTMain([
-	testCase(RedscriptTests.allTests)
+	testCase(RedlockTests.allTests)
 ])
